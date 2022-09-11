@@ -1,0 +1,11 @@
+# ninja log v5
+1	1274	1643836837233601141	CMakeFiles/howManySentences.dir/main.cpp.o	9ed46c619f11f444
+1276	1354	1643836837319537630	howManySentences	ce3bdf167309b4cb
+2	1012	1643836870658548073	CMakeFiles/howManySentences.dir/main.cpp.o	9ed46c619f11f444
+1012	1079	1643836870728687040	howManySentences	ce3bdf167309b4cb
+1	865	1643836892671846878	CMakeFiles/howManySentences.dir/main.cpp.o	9ed46c619f11f444
+865	934	1643836892743991414	howManySentences	ce3bdf167309b4cb
+1	1398	1643904895660291403	CMakeFiles/howManySentences.dir/main.cpp.o	9ed46c619f11f444
+1399	1491	1643904895757831464	howManySentences	ce3bdf167309b4cb
+1	731	1643904912633241200	CMakeFiles/howManySentences.dir/main.cpp.o	9ed46c619f11f444
+732	788	1643904912690972447	howManySentences	ce3bdf167309b4cb

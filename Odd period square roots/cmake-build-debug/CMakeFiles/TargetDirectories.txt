@@ -1,0 +1,3 @@
+/Users/joshcai/CLionProjects/Odd period square roots/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/joshcai/CLionProjects/Odd period square roots/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joshcai/CLionProjects/Odd period square roots/cmake-build-debug/CMakeFiles/Odd_period_square_roots.dir
